@@ -1,0 +1,13 @@
+C:\Users\nick\source\repos\svsc\svsc\bin\Debug\netcoreapp3.1\svsc.exe
+C:\Users\nick\source\repos\svsc\svsc\bin\Debug\netcoreapp3.1\svsc.deps.json
+C:\Users\nick\source\repos\svsc\svsc\bin\Debug\netcoreapp3.1\svsc.runtimeconfig.json
+C:\Users\nick\source\repos\svsc\svsc\bin\Debug\netcoreapp3.1\svsc.runtimeconfig.dev.json
+C:\Users\nick\source\repos\svsc\svsc\bin\Debug\netcoreapp3.1\svsc.dll
+C:\Users\nick\source\repos\svsc\svsc\bin\Debug\netcoreapp3.1\svsc.pdb
+C:\Users\nick\source\repos\svsc\svsc\obj\Debug\netcoreapp3.1\svsc.csprojAssemblyReference.cache
+C:\Users\nick\source\repos\svsc\svsc\obj\Debug\netcoreapp3.1\svsc.AssemblyInfoInputs.cache
+C:\Users\nick\source\repos\svsc\svsc\obj\Debug\netcoreapp3.1\svsc.AssemblyInfo.cs
+C:\Users\nick\source\repos\svsc\svsc\obj\Debug\netcoreapp3.1\svsc.csproj.CoreCompileInputs.cache
+C:\Users\nick\source\repos\svsc\svsc\obj\Debug\netcoreapp3.1\svsc.dll
+C:\Users\nick\source\repos\svsc\svsc\obj\Debug\netcoreapp3.1\svsc.pdb
+C:\Users\nick\source\repos\svsc\svsc\obj\Debug\netcoreapp3.1\svsc.genruntimeconfig.cache
